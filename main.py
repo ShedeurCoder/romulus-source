@@ -160,4 +160,4 @@ async def on_message(message):
             return
 
 #keep_alive()
-client.run('OTUyNTE0MTMzOTEwMjI5MDQz.Yi3H6g.u71wDriEVOWEDgg1z_y4jsIvrqk')
+client.run('***')
